@@ -30,6 +30,3 @@ This project demonstrates an end-to-end data analytics workflow, from raw data i
 * **Finding 2:** [Example: Identified underperforming regions contributing to margin leakage.]
 * **Conclusion:** Recommended [Actionable Step] based on data-driven evidence.
 
-## 💻 How to Run
-1. **Clone the Repo:** ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
