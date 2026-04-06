@@ -1,7 +1,4 @@
-# Customer-Behavior-Data-Analyst-Portfolio-Project
-Analyzed customer behavior data to identify purchasing trends, segment customers, and improve business decision-making. Built interactive dashboards to visualize key metrics such as customer lifetime value, retention rates, and sales performance.
-
-# Data Analytics Project: [Project Title Here]
+# Data Analytics Project: Customer-Behavior-Data-Analyst-Portfolio-Project
 
 ## 📌 Project Overview
 This project demonstrates an end-to-end data analytics workflow, from raw data ingestion to professional stakeholder reporting. The objective was to analyze [Target, e.g., Consumer Behavior/Sales Performance] to provide actionable business insights.
